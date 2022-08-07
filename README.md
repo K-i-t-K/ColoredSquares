@@ -1,4 +1,4 @@
 # ColoredSquares
 Unity Colored Squares
 
-Project containedin MainScene
+Project contained in MainScene
